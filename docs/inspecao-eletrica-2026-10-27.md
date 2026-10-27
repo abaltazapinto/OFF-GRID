@@ -31,4 +31,17 @@
 
 **Fotografia:** recebida na conversa de 27-10-2026 (bateria vista no respetivo compartimento). Ainda **não adicionada como ficheiro binário ao GitHub**; preservar separadamente para futura inclusão em `Fotos/`.
 
+## Teste de fusível — 27-10-2026
+
+- **Componente:** fusível automóvel azul, **15 A**, retirado da caixa de fusíveis do habitáculo.
+- **Instrumento:** UNI-T UT125C em modo continuidade; teste realizado com fusível retirado e ignição desligada.
+- **Controlo do equipamento:** as duas pontas encostadas entre si produzem sinal sonoro (continuidade confirmada).
+- **Medição do fusível:** pontas nas duas pernas metálicas; visor **OL**, sem sinal sonoro no fusível segundo a sequência de testes fotografada.
+- **Resultado:** **fusível de 15 A fundido / sem continuidade**, de acordo com a leitura apresentada.
+- **Circuito / posição física exata:** ainda não identificados pela legenda; não atribuir ao limpa-vidros nem à sofagem sem confirmação.
+- **Ação pendente:** identificar posição e circuito e verificar possível causa antes de instalar um fusível novo do mesmo tipo e amperagem especificada.
+- **Evidência fotográfica:** partilhada na conversa de 27-10-2026; ainda não incorporada no GitHub.
+
+> Segurança: não fazer pontes, não aumentar a amperagem e não realizar teste de continuidade em circuito alimentado.
+
 > Este registo transcreve as observações efetuadas, sem inventar medições nem diagnosticar avarias que ainda não foram isoladas.
