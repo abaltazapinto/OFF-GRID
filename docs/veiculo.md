@@ -32,3 +32,7 @@
 Dados transcritos do Certificado de Matrícula português.
 
 > Nota: os dados pessoais do titular e a morada não são armazenados neste repositório.
+
+## Documentação técnica
+
+- [Fusíveis, relés e diagnóstico elétrico — Hyundai H100 (1994)](./h100-1994-fusiveis-reles.md) — localização provável, fontes com esquemas e lista de verificações ainda pendentes na carrinha.
