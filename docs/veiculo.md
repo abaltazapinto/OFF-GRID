@@ -36,3 +36,7 @@ Dados transcritos do Certificado de Matrícula português.
 ## Documentação técnica
 
 - [Fusíveis, relés e diagnóstico elétrico — Hyundai H100 (1994)](./h100-1994-fusiveis-reles.md) — localização provável, fontes com esquemas e lista de verificações ainda pendentes na carrinha.
+
+## Inspeções e manutenção
+
+- [2026-10-27 — Medição de bateria e diagnóstico elétrico](./inspecao-eletrica-2026-10-27.md) — tensão com motor ligado/desligado e sintomas de sofagem e limpa-vidros; leitura de 3,5 V por reconfirmar.
