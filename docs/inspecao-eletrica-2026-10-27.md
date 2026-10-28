@@ -64,3 +64,16 @@ Resultados comunicados pelo proprietário, com fusíveis retirados individualmen
 **Balanço:** 7 com continuidade, 1 sem continuidade. Ainda não está estabelecida a correspondência entre estas posições e os circuitos WIPER/HEATER. A continuidade dos fusíveis não comprova que a alimentação chega aos equipamentos. Evitar substituir ou energizar o circuito do fusível fundido sem confirmar legenda e valor nominal.
 
 **Próxima verificação:** identificar o circuito do fusível #1 através da legenda/tampa e testar a fila superior com o mesmo procedimento (ignição desligada, um fusível de cada vez), mantendo os resultados separados.
+
+## Teste sistemático — fila superior (continuação, 28-10-2026)
+
+Os identificadores seguintes representam a **ordem de teste** e não a numeração oficial da caixa de fusíveis.
+
+| Ordem no teste | Fusível | Resultado | Estado |
+| --- | --- | --- | --- |
+| #1 | Amperagem por identificar | Apita | Continuidade OK |
+| #2 | Azul, 15 A | OL, não apita, com pontas firmes | **Sem continuidade / fundido** |
+
+**Contagem acumulada das duas filas testadas até aqui:** 8 fusíveis com continuidade e 2 sem continuidade. A fila superior não foi totalmente testada. **Não foi identificada a correspondência dos circuitos**, nem a causa dos fusíveis fundidos. Não efetuar substituições de amperagem diferente, pontes ou ensaios energizados com os fusíveis retirados.
+
+**Próximo teste:** terceiro fusível da fila superior, um de cada vez, ignição desligada. Inspecionar também sinais de aquecimento no suporte e fotografar a legenda da caixa.
