@@ -26,14 +26,28 @@
 
 - Células Envision LiFePO₄ 280 Ah e BMS JK: preços e referências existentes em [notas de baterias](../Ferramentas/Baterias/notas/geral.md). **Não contabilizar como compras.**
 - Inversor: ligações a produtos em [notas de inversor](../Ferramentas/Inversor/notas/geral.md). **Não contabilizar como compra.**
-- Intervenção no alternador/tubos de radiador: [registo de oficina](../Arranjos/2026/Pereira_Car/arranjo_tubos_alternador.md), sem custo comprovado nesta consulta. **Não contabilizar como compra.**
+- Intervenção no alternador/tubos de radiador na **Rodo Pereira**: [registo de oficina](../Arranjos/2026/Pereira_Car/arranjo_tubos_alternador.md). Despesa de **1.026,00 €** comunicada pelo proprietário; fatura guardada na aldeia, por anexar.
 
-## Totais comprovados até à data
+## Outras despesas efetuadas em 2026 — comunicadas pelo proprietário
 
-| Categoria | Total (€) |
-| --- | ---: |
-| Camperização (fatura paga de 09-07-2026) | **2.390,00** |
-| Fusíveis Norauto (28-10-2026) | **Não incluídos — pagamento ainda não confirmado** |
-| **Total documental confirmado** | **2.390,00** |
+| Despesa | Fornecedor / local | Valor (€) | Comprovativo |
+| --- | --- | ---: | --- |
+| Remodelação / reparação do canhão da fechadura | Não indicado | 95,00 | Não anexado |
+| Segunda chave da carrinha | Não indicado | 5,00 | Não anexado |
+| Reparação do alternador, bateria e substituição dos tubos/canos de água | **Rodo Pereira** | 1.026,00 | **Fatura na aldeia, por anexar** |
+| **Subtotal declarado** | | **1.126,00** | |
 
-*Última atualização: 28-10-2026. Esta tabela não inclui despesas sem fatura/comprovativo confirmado.*
+A despesa da **Rodo Pereira** corresponde à intervenção já referida em [Arranjos/2026/Pereira_Car](../Arranjos/2026/Pereira_Car/arranjo_tubos_alternador.md); não duplicar no total. As datas exatas não foram indicadas, apenas o ano 2026.
+
+## Resumo financeiro da remodelação — 2026
+
+| Categoria | Valor (€) | Evidência |
+| --- | ---: | --- |
+| Kit de camperização e acessórios | 2.390,00 | Fatura no repositório, paga |
+| Canhão da fechadura | 95,00 | Despesa confirmada pelo proprietário |
+| Segunda chave | 5,00 | Despesa confirmada pelo proprietário |
+| Oficina **Rodo Pereira** — alternador, bateria e tubagens de água | 1.026,00 | Despesa confirmada pelo proprietário; fatura por anexar |
+| **Total de despesas registadas** | **3.516,00** | 2.390,00 € documentados + 1.126,00 € declarados |
+| Fusíveis Norauto | Não incluídos | Valor pago ainda não indicado |
+
+*Atualizado em 28-10-2026. Não confundir despesas declaradas com faturas arquivadas.*
