@@ -45,3 +45,22 @@
 > Segurança: não fazer pontes, não aumentar a amperagem e não realizar teste de continuidade em circuito alimentado.
 
 > Este registo transcreve as observações efetuadas, sem inventar medições nem diagnosticar avarias que ainda não foram isoladas.
+
+## Teste sistemático — fila inferior da caixa de fusíveis (27-10-2026)
+
+Resultados comunicados pelo proprietário, com fusíveis retirados individualmente e multímetro UNI-T UT125C no modo de continuidade. Identificadores #1–#8 são **ordem de inspeção da esquerda para a direita**, não números oficiais dos circuitos.
+
+| Ordem no teste | Fusível identificado | Leitura | Estado |
+| --- | --- | --- | --- |
+| #1 | Azul, 15 A (primeiro ocupado à esquerda) | OL, sem apito | **Fundido** |
+| #2 | Vermelho, 10 A | Apita | Continuidade OK |
+| #3 | Amarelo, 20 A | Apita | Continuidade OK |
+| #4 | Amarelo, 20 A | Apita | Continuidade OK |
+| #5 | Vermelho, 10 A | Apita | Continuidade OK |
+| #6 | Azul, 15 A | Apita | Continuidade OK |
+| #7 | Azul, 15 A | Apita | Continuidade OK |
+| #8 | Extremo direito, amperagem/posição a confirmar | Apita | Continuidade OK |
+
+**Balanço:** 7 com continuidade, 1 sem continuidade. Ainda não está estabelecida a correspondência entre estas posições e os circuitos WIPER/HEATER. A continuidade dos fusíveis não comprova que a alimentação chega aos equipamentos. Evitar substituir ou energizar o circuito do fusível fundido sem confirmar legenda e valor nominal.
+
+**Próxima verificação:** identificar o circuito do fusível #1 através da legenda/tampa e testar a fila superior com o mesmo procedimento (ignição desligada, um fusível de cada vez), mantendo os resultados separados.
