@@ -1,5 +1,12 @@
 # Compras — OFF-GRID Hyundai H100 (1994)
 
+## Histórico de remodelação
+
+- [Compras da camperização de 2026 — fatura paga e discriminação de 2.390 €](./remodelacao-2026.md)
+
+**Total de compras documentadas como pagas: 2.390,00 €.** Os fusíveis Norauto continuam registados como seleção para compra, sem comprovativo de pagamento.
+
+
 Registo de materiais, quantidades, fornecedores e estado da aquisição. A confirmação de compra e os comprovativos são registados quando disponíveis.
 
 | Data | Artigo | Quantidade / composição | Fornecedor | Estado | Preço |
