@@ -34,10 +34,10 @@
 | --- | --- | ---: | --- |
 | Remodelação / reparação do canhão da fechadura | Não indicado | 95,00 | Não anexado |
 | Segunda chave da carrinha | Não indicado | 5,00 | Não anexado |
-| Reparação do alternador, bateria, tubagens de água e intervenção no sistema de refrigeração | **Rodo Pereira** | 1.026,00 | **Fatura na aldeia, por anexar** |
+| Reparação do alternador, bateria e substituição do radiador, mangueiras e líquido de refrigeração | **Rodo Pereira** | 1.026,00 | **Fatura na aldeia, por anexar** |
 | **Subtotal declarado** | | **1.126,00** | |
 
-O proprietário refere ainda a substituição de um elemento do circuito de água/refrigeração (descrito como «aquilo da água refrigerador»); a peça exata e a eventual troca do líquido refrigerante ficam por confirmar na fatura. **Sem contabilização adicional**, por integrar a intervenção de 1.026 €.
+**Confirmado pelo proprietário:** na intervenção foram substituídos o **radiador inteiro, as mangueiras/tubos e o líquido de refrigeração**. Estes trabalhos integram os **1.026 €** da Rodo Pereira, sem contabilização adicional.
 
 A despesa da **Rodo Pereira** corresponde à intervenção já referida em [Arranjos/2026/Pereira_Car](../Arranjos/2026/Pereira_Car/arranjo_tubos_alternador.md); não duplicar no total. As datas exatas não foram indicadas, apenas o ano 2026.
 
@@ -48,7 +48,7 @@ A despesa da **Rodo Pereira** corresponde à intervenção já referida em [Arra
 | Kit de camperização e acessórios | 2.390,00 | Fatura no repositório, paga |
 | Canhão da fechadura | 95,00 | Despesa confirmada pelo proprietário |
 | Segunda chave | 5,00 | Despesa confirmada pelo proprietário |
-| Oficina **Rodo Pereira** — alternador, bateria, tubagens e sistema de refrigeração | 1.026,00 | Despesa confirmada pelo proprietário; fatura por anexar |
+| Oficina **Rodo Pereira** — alternador, bateria, radiador, mangueiras e líquido de refrigeração | 1.026,00 | Despesa confirmada pelo proprietário; fatura por anexar |
 | **Total de despesas registadas** | **3.516,00** | 2.390,00 € documentados + 1.126,00 € declarados |
 | Fusíveis Norauto | Não incluídos | Valor pago ainda não indicado |
 
