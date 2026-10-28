@@ -4,7 +4,7 @@
 
 - [Compras da camperização de 2026 — fatura paga e discriminação de 2.390 €](./remodelacao-2026.md)
 
-**Total de compras documentadas como pagas: 2.390,00 €.** Os fusíveis Norauto continuam registados como seleção para compra, sem comprovativo de pagamento.
+**Total de despesas registadas em 2026: 3.516,00 €** — 2.390,00 € com fatura arquivada e 1.126,00 € comunicados pelo proprietário (95 € canhão, 5 € segunda chave, 1.026 € oficina Rodo Pereira). Fatura da Rodo Pereira por anexar, guardada na aldeia. Os fusíveis Norauto não estão incluídos por falta de valor pago.
 
 
 Registo de materiais, quantidades, fornecedores e estado da aquisição. A confirmação de compra e os comprovativos são registados quando disponíveis.
