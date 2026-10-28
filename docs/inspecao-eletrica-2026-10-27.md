@@ -37,7 +37,7 @@
 - **Instrumento:** UNI-T UT125C em modo continuidade; teste realizado com fusível retirado e ignição desligada.
 - **Controlo do equipamento:** as duas pontas encostadas entre si produzem sinal sonoro (continuidade confirmada).
 - **Medição do fusível:** pontas nas duas pernas metálicas; visor **OL**, sem sinal sonoro no fusível segundo a sequência de testes fotografada.
-- **Resultado:** **fusível de 15 A fundido / sem continuidade**, de acordo com a leitura apresentada.
+- **Resultado:** **leitura OL reportada; fusível queimado não confirmado**. O proprietário corrigiu posteriormente a conclusão de que havia fusíveis queimados.
 - **Circuito / posição física exata:** ainda não identificados pela legenda; não atribuir ao limpa-vidros nem à sofagem sem confirmação.
 - **Ação pendente:** identificar posição e circuito e verificar possível causa antes de instalar um fusível novo do mesmo tipo e amperagem especificada.
 - **Evidência fotográfica:** partilhada na conversa de 27-10-2026; ainda não incorporada no GitHub.
@@ -52,7 +52,7 @@ Resultados comunicados pelo proprietário, com fusíveis retirados individualmen
 
 | Ordem no teste | Fusível identificado | Leitura | Estado |
 | --- | --- | --- | --- |
-| #1 | Azul, 15 A (primeiro ocupado à esquerda) | OL, sem apito | **Fundido** |
+| #1 | Azul, 15 A (primeiro ocupado à esquerda) | OL, sem apito | **Estado físico não confirmado** |
 | #2 | Vermelho, 10 A | Apita | Continuidade OK |
 | #3 | Amarelo, 20 A | Apita | Continuidade OK |
 | #4 | Amarelo, 20 A | Apita | Continuidade OK |
@@ -61,7 +61,7 @@ Resultados comunicados pelo proprietário, com fusíveis retirados individualmen
 | #7 | Azul, 15 A | Apita | Continuidade OK |
 | #8 | Extremo direito, amperagem/posição a confirmar | Apita | Continuidade OK |
 
-**Balanço:** 7 com continuidade, 1 sem continuidade. Ainda não está estabelecida a correspondência entre estas posições e os circuitos WIPER/HEATER. A continuidade dos fusíveis não comprova que a alimentação chega aos equipamentos. Evitar substituir ou energizar o circuito do fusível fundido sem confirmar legenda e valor nominal.
+**Balanço:** 7 com continuidade, 1 sem continuidade. Ainda não está estabelecida a correspondência entre estas posições e os circuitos WIPER/HEATER. A continuidade dos fusíveis não comprova que a alimentação chega aos equipamentos. Não classificar um fusível como queimado apenas com base neste registo; esclarecer leituras e verificar a posição e valor nominal antes de intervenções.
 
 **Próxima verificação:** identificar o circuito do fusível #1 através da legenda/tampa e testar a fila superior com o mesmo procedimento (ignição desligada, um fusível de cada vez), mantendo os resultados separados.
 
@@ -72,8 +72,12 @@ Os identificadores seguintes representam a **ordem de teste** e não a numeraç�
 | Ordem no teste | Fusível | Resultado | Estado |
 | --- | --- | --- | --- |
 | #1 | Amperagem por identificar | Apita | Continuidade OK |
-| #2 | Azul, 15 A | OL, não apita, com pontas firmes | **Sem continuidade / fundido** |
+| #2 | Azul, 15 A | OL, não apita, com pontas firmes | **Estado físico não confirmado** |
 
-**Contagem acumulada das duas filas testadas até aqui:** 8 fusíveis com continuidade e 2 sem continuidade. A fila superior não foi totalmente testada. **Não foi identificada a correspondência dos circuitos**, nem a causa dos fusíveis fundidos. Não efetuar substituições de amperagem diferente, pontes ou ensaios energizados com os fusíveis retirados.
+**Contagem acumulada das duas filas testadas até aqui:** 8 leituras com apito e 2 leituras OL; **nenhum fusível queimado confirmado**, conforme correção expressa do proprietário. A fila superior não foi totalmente testada. **Não foi identificada a correspondência dos circuitos**, nem qualquer fusível efetivamente fundido. Não efetuar substituições de amperagem diferente, pontes ou ensaios energizados com os fusíveis retirados.
 
 **Próximo teste:** terceiro fusível da fila superior, um de cada vez, ignição desligada. Inspecionar também sinais de aquecimento no suporte e fotografar a legenda da caixa.
+
+## Retificação do diagnóstico (28-10-2026)
+
+O proprietário esclareceu expressamente que **nenhum fusível foi confirmado como queimado**. As duas leituras `OL` permanecem registadas como leituras instrumentais relatadas, mas as anteriores conclusões categóricas de «fundido/queimado» foram retiradas. Não presumir que os fusíveis devem ser substituídos por causa dessas leituras sem nova confirmação. O problema da sofagem e do limpa-vidros direito permanece por diagnosticar.
