@@ -80,3 +80,15 @@ Não inclui custo de fusíveis Norauto sem preço de compra comprovado.
 - [Histórico de compras](../Compras/remodelacao-2026.md).
 
 **Aplicabilidade:** estas referências podem abranger mercados e versões diferentes. O PDF unificado e este Markdown são um **registo de campo**, não um manual de oficina original homologado para o VIN.
+
+## Esclarecimento de fusíveis e relés — 01-11-2026
+
+**Fonte secundária para H100 AH até 1995:** [Carmanualshub](https://carmanualshub.com/hyundai-h100-1995-fuses-block-and-relays/), cruzada com [Auto Genius](https://www.autogenius.info/hyndai-h100-1986-1996-fuse-box-diagram/).
+
+- No esquema da geração AH, as **posições oficiais 9 e 10 constam como não usadas**. Ainda não há correspondência comprovada com os encaixes vazios observados fisicamente à esquerda da caixa; **não preencher encaixes vazios por tentativa**.
+- Para circuitos de aquecimento/ventilação, o esquema refere **posição 14, 20 A (variante EC)** ou **posição 15, 20 A (variante não-EC)**. São números do esquema, **não localizações físicas validadas na carrinha**.
+- O esquema apresenta **R1 luzes traseiras**, **R2 vidros elétricos (EC) / ventilador traseiro (não-EC)**, **R3 faróis**, **R4 não usado (EC) / desembaciador (não-EC)**, **R5 piscas** e **M74 relé intermitente dos limpa-vidros**. **Não foi identificado aqui um relé específico do ventilador dianteiro nesta carrinha**.
+- O ventilador dianteiro que funciona por segundos e pára requer teste de **tensão DC na ficha do motor** quando ocorre a falha, antes de comprar relés ou motores. Ver Issue #3.
+- O amarelo de 20 A observado no extremo superior direito da fotografia não demonstra que outro encaixe adjacente precise ser preenchido.
+
+**Nota de nomenclatura:** a falha descrita é da **ventilação/sofagem (blower)**; não está comprovado que a carrinha tenha ar condicionado com compressor, pelo que evitar tratar ambos como o mesmo circuito.
