@@ -48,3 +48,7 @@ Dados transcritos do Certificado de Matrícula português.
 ## Manuais e catálogos de referência
 
 - [Fontes técnicas Hyundai H100/Grace 1994 — catálogos, esquemas e manuais](./documentacao-tecnica-h100-1994.md) — aplicabilidade e estado de verificação indicados por fonte.
+
+## Guia unificado
+
+- [Guia unificado — ordem física dos fusíveis, testes e pendências](./guia-unificado-h100-1994.md). PDF complementar: `docs/manuais/H100_1994_Guia_Unificado_Fusiveis.pdf` (por adicionar ao GitHub).
