@@ -44,3 +44,7 @@ Dados transcritos do Certificado de Matrícula português.
 ## Manutenção e avarias em curso
 
 - [Plano de manutenção e diagnóstico 2026 — Van of Freedom](./plano-manutencao-2026.md) — lista de avarias, ações e ligações às Issues #3–#7.
+
+## Manuais e catálogos de referência
+
+- [Fontes técnicas Hyundai H100/Grace 1994 — catálogos, esquemas e manuais](./documentacao-tecnica-h100-1994.md) — aplicabilidade e estado de verificação indicados por fonte.
