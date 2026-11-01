@@ -11,6 +11,7 @@ Estado de referência: **01-11-2026**. Este ficheiro é o índice; as checklists
 | Média | Lava-vidros esquerdo | Pulverização fraca/ausente; área húmida; direito funciona | [#5](https://github.com/abaltazapinto/OFF-GRID/issues/5) | Aberta |
 | Média | Isqueiro / tomada 12 V | A luz acende, mas a tomada não alimenta acessórios | [#6](https://github.com/abaltazapinto/OFF-GRID/issues/6) | Aberta |
 | Média | Caixa de fusíveis | Fusíveis substituídos; posições vazias e circuito por mapear | [#7](https://github.com/abaltazapinto/OFF-GRID/issues/7) | Aberta |
+| Média | Conta-rotações (RPM) | Funcionou na compra, depois deixou de indicar rotações | [#undefined](https://github.com/abaltazapinto/OFF-GRID/issues/undefined) | Aberta |
 
 ## Trabalho já executado / confirmado
 
