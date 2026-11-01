@@ -40,3 +40,7 @@ Dados transcritos do Certificado de Matrícula português.
 ## Inspeções e manutenção
 
 - [2026-10-27 — Medição de bateria e diagnóstico elétrico](./inspecao-eletrica-2026-10-27.md) — tensão com motor ligado/desligado e sintomas de sofagem e limpa-vidros; leituras corrigidas: 14,0 V ligado e 13,5 V desligado.
+
+## Manutenção e avarias em curso
+
+- [Plano de manutenção e diagnóstico 2026 — Van of Freedom](./plano-manutencao-2026.md) — lista de avarias, ações e ligações às Issues #3–#7.
